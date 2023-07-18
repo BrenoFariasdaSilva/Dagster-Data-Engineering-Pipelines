@@ -1,6 +1,6 @@
 <div align="center">
   
-# [Dagster Cloud - Hooli Inc. Data Engineering.](https://github.com/BrenoFariasdaSilva/Dagster-Data-Engineering-Pipelines/) <img src="https://github.com/BrenoFariasdaSilva/Dagster-Data-Engineering-Pipelines/blob/assets/assets/dagster.svg"  width="10%" height="10%">
+# [Dagster Cloud - Hooli Inc. Data Engineering.](https://github.com/BrenoFariasdaSilva/Dagster-Data-Engineering-Pipelines/) <img src="https://github.com/BrenoFariasdaSilva/Dagster-Data-Engineering-Pipelines/blob/assets/assets/Dagster.svg"  width="10%" height="10%">
 
 </div>
 
