@@ -24,6 +24,7 @@ This repository includes Dagster application code developed by the fictional dat
 
 </div>
 
+## Table of Contents
 - [Dagster Cloud - Hooli Inc. Data Engineering.](#dagster-cloud---hooli-inc-data-engineering)
   - [Getting Started](#getting-started)
   - [Code Structure](#code-structure)
