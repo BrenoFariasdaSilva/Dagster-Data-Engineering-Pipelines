@@ -14,11 +14,14 @@ This repository includes Dagster application code developed by the fictional dat
   
 </div>
 
-<p align="center">
-  <img src="https://img.shields.io/github/last-commit/BrenoFariasdaSilva/Dagster-Data-Engineering-Pipelines" alt="lastcommit" />
-  <img src="https://img.shields.io/github/license/BrenoFariasdaSilva/Dagster-Data-Engineering-Pipelines" alt="license" />
-  <img src="https://wakatime.com/badge/github/BrenoFariasdaSilva/Dagster-Data-Engineering-Pipelines.svg" alt="wakatime" />
-</p>
+<div align="center">
+
+![GitHub Code Size in Bytes](https://img.shields.io/github/languages/code-size/BrenoFariasdaSilva/Dagster-Data-Engineering-Pipelines)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/BrenoFariasdaSilva/Dagster-Data-Engineering-Pipelines)
+![GitHub](https://img.shields.io/github/license/BrenoFariasdaSilva/Dagster-Data-Engineering-Pipelines)
+![wakatime](https://wakatime.com/badge/github/BrenoFariasdaSilva/Dagster-Data-Engineering-Pipelines.svg)
+
+</div>
 
 <div align="center">
   
