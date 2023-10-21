@@ -30,20 +30,31 @@ This repository includes Dagster application code developed by the fictional dat
 </div>
 
 ## Table of Contents
-- [Dagster Cloud - Hooli Inc. Data Engineering.](#dagster-cloud---hooli-inc-data-engineering)
-  - [Getting Started](#getting-started)
+- [Dagster Cloud - Hooli Inc. Data Engineering. ](#dagster-cloud---hooli-inc-data-engineering-)
+  - [Table of Contents](#table-of-contents)
+  - [Clone the project:](#clone-the-project)
+  - [Installation:](#installation)
   - [Code Structure](#code-structure)
   - [Deployment Architecture](#deployment-architecture)
 
 
-## Getting Started
-
-You can clone and run this example locally:
-
+## Clone the project:
+Simply download or clone this repository and open a terminal inside of the folder that is related to it. 
+```bash
+git clone https://github.com/BrenoFariasdaSilva/Dagster-Data-Engineering-Pipelines
+cd Dagster-Data-Engineering-Pipelines
 ```
-git clone https://github.com/dagster-io/hooli-data-eng-pipelines
+
+## Installation:
+```bash
 pip install -e ".[dev]"
-dagster dev
+pip install dagster dagit notebook
+```
+
+or 
+
+```bash
+make setup
 ```
 
 ## Code Structure
