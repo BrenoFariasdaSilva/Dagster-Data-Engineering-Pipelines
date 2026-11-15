@@ -26,7 +26,6 @@ This repository includes Dagster application code developed by the fictional dat
 [![GitHub Stars](https://img.shields.io/github/stars/BrenoFariasdaSilva/Dagster-Data-Engineering-Pipelines)](https://github.com/BrenoFariasdaSilva/Dagster-Data-Engineering-Pipelines/stargazers)
 [![GitHub Contributors](https://img.shields.io/github/contributors/BrenoFariasdaSilva/Dagster-Data-Engineering-Pipelines)](https://github.com/BrenoFariasdaSilva/Dagster-Data-Engineering-Pipelines/graphs/contributors)
 [![GitHub Created At](https://img.shields.io/github/created-at/BrenoFariasdaSilva/Dagster-Data-Engineering-Pipelines)](https://github.com/BrenoFariasdaSilva/Dagster-Data-Engineering-Pipelines)
-[![GitHub Repository Size](https://img.shields.io/github/repo-size/BrenoFariasdaSilva/Dagster-Data-Engineering-Pipelines)](https://github.com/BrenoFariasdaSilva/Dagster-Data-Engineering-Pipelines)
 [![Open Issues](https://img.shields.io/github/issues/BrenoFariasdaSilva/Dagster-Data-Engineering-Pipelines)](https://github.com/BrenoFariasdaSilva/Dagster-Data-Engineering-Pipelines/issues)
 [![Closed Issues](https://img.shields.io/github/issues-closed/BrenoFariasdaSilva/Dagster-Data-Engineering-Pipelines)](https://github.com/BrenoFariasdaSilva/Dagster-Data-Engineering-Pipelines/issues?q=is%3Aissue+is%3Aclosed)
 [![Open Pull Requests](https://img.shields.io/github/issues-pr/BrenoFariasdaSilva/Dagster-Data-Engineering-Pipelines)](https://github.com/BrenoFariasdaSilva/Dagster-Data-Engineering-Pipelines/pulls)
