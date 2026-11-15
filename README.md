@@ -24,10 +24,30 @@ This repository includes Dagster application code developed by the fictional dat
 </div>
 
 <div align="center">
-  
-![RepoBeats Statistics](https://repobeats.axiom.co/api/embed/73650a6aa618db050c06a37b0cf1c12b38e56e94.svg "Repobeats analytics image")
+
+![GitHub Code Size in Bytes](https://img.shields.io/github/languages/code-size/BrenoFariasdaSilva/Dagster-Data-Engineering-Pipelines)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/BrenoFariasdaSilva/Dagster-Data-Engineering-Pipelines)
+![GitHub License](https://img.shields.io/github/license/BrenoFariasdaSilva/Dagster-Data-Engineering-Pipelines)
+![wakatime](https://wakatime.com/badge/github/BrenoFariasdaSilva/Dagster-Data-Engineering-Pipelines.svg)
+[![GitHub Commits](https://img.shields.io/github/commit-activity/t/BrenoFariasdaSilva/Dagster-Data-Engineering-Pipelines/master)](https://github.com/BrenoFariasdaSilva/Dagster-Data-Engineering-Pipelines/commits/master)
+[![GitHub Forks](https://img.shields.io/github/forks/BrenoFariasdaSilva/Dagster-Data-Engineering-Pipelines)](https://github.com/BrenoFariasdaSilva/Dagster-Data-Engineering-Pipelines/network/members)
+![GitHub Language Count](https://img.shields.io/github/languages/count/BrenoFariasdaSilva/Dagster-Data-Engineering-Pipelines)
+[![GitHub Stars](https://img.shields.io/github/stars/BrenoFariasdaSilva/Dagster-Data-Engineering-Pipelines)](https://github.com/BrenoFariasdaSilva/Dagster-Data-Engineering-Pipelines/stargazers)
+[![GitHub Contributors](https://img.shields.io/github/contributors/BrenoFariasdaSilva/Dagster-Data-Engineering-Pipelines)](https://github.com/BrenoFariasdaSilva/Dagster-Data-Engineering-Pipelines/graphs/contributors)
+[![GitHub Created At](https://img.shields.io/github/created-at/BrenoFariasdaSilva/Dagster-Data-Engineering-Pipelines)](https://github.com/BrenoFariasdaSilva/Dagster-Data-Engineering-Pipelines)
+[![GitHub Repository Size](https://img.shields.io/github/repo-size/BrenoFariasdaSilva/Dagster-Data-Engineering-Pipelines)](https://github.com/BrenoFariasdaSilva/Dagster-Data-Engineering-Pipelines)
+[![Open Issues](https://img.shields.io/github/issues/BrenoFariasdaSilva/Dagster-Data-Engineering-Pipelines)](https://github.com/BrenoFariasdaSilva/Dagster-Data-Engineering-Pipelines/issues)
+[![Closed Issues](https://img.shields.io/github/issues-closed/BrenoFariasdaSilva/Dagster-Data-Engineering-Pipelines)](https://github.com/BrenoFariasdaSilva/Dagster-Data-Engineering-Pipelines/issues?q=is%3Aissue+is%3Aclosed)
+[![Open Pull Requests](https://img.shields.io/github/issues-pr/BrenoFariasdaSilva/Dagster-Data-Engineering-Pipelines)](https://github.com/BrenoFariasdaSilva/Dagster-Data-Engineering-Pipelines/pulls)
+[![Closed Pull Requests](https://img.shields.io/github/issues-pr-closed/BrenoFariasdaSilva/Dagster-Data-Engineering-Pipelines)](https://github.com/BrenoFariasdaSilva/Dagster-Data-Engineering-Pipelines/pulls?q=is%3Apr+is%3Aclosed)
+[![Monthly Commits](https://img.shields.io/github/commit-activity/m/BrenoFariasdaSilva/Dagster-Data-Engineering-Pipelines/master)](https://github.com/BrenoFariasdaSilva/Dagster-Data-Engineering-Pipelines/commits)
+[![Merged PRs](https://img.shields.io/github/issues-search/BrenoFariasdaSilva/Dagster-Data-Engineering-Pipelines?query=is%3Apr%20is%3Amerged&label=merged%20PRs&color=blue)](https://github.com/BrenoFariasdaSilva/Dagster-Data-Engineering-Pipelines/pulls?q=is%3Apr+is%3Amerged)
+![GitHub Primary Language](https://img.shields.io/badge/language-Jupyter%20Notebook-3b82f6)
+
+![Repobeats Statistics](https://repobeats.axiom.co/api/embed/73650a6aa618db050c06a37b0cf1c12b38e56e94.svg)
 
 </div>
+
 
 ## Table of Contents
 - [Dagster Cloud - Hooli Inc. Data Engineering. ](#dagster-cloud---hooli-inc-data-engineering-)
