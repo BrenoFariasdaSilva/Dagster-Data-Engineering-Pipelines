@@ -20,15 +20,6 @@ This repository includes Dagster application code developed by the fictional dat
 ![GitHub Last Commit](https://img.shields.io/github/last-commit/BrenoFariasdaSilva/Dagster-Data-Engineering-Pipelines)
 ![GitHub](https://img.shields.io/github/license/BrenoFariasdaSilva/Dagster-Data-Engineering-Pipelines)
 ![wakatime](https://wakatime.com/badge/github/BrenoFariasdaSilva/Dagster-Data-Engineering-Pipelines.svg)
-
-</div>
-
-<div align="center">
-
-![GitHub Code Size in Bytes](https://img.shields.io/github/languages/code-size/BrenoFariasdaSilva/Dagster-Data-Engineering-Pipelines)
-![GitHub Last Commit](https://img.shields.io/github/last-commit/BrenoFariasdaSilva/Dagster-Data-Engineering-Pipelines)
-![GitHub License](https://img.shields.io/github/license/BrenoFariasdaSilva/Dagster-Data-Engineering-Pipelines)
-![wakatime](https://wakatime.com/badge/github/BrenoFariasdaSilva/Dagster-Data-Engineering-Pipelines.svg)
 [![GitHub Commits](https://img.shields.io/github/commit-activity/t/BrenoFariasdaSilva/Dagster-Data-Engineering-Pipelines/master)](https://github.com/BrenoFariasdaSilva/Dagster-Data-Engineering-Pipelines/commits/master)
 [![GitHub Forks](https://img.shields.io/github/forks/BrenoFariasdaSilva/Dagster-Data-Engineering-Pipelines)](https://github.com/BrenoFariasdaSilva/Dagster-Data-Engineering-Pipelines/network/members)
 ![GitHub Language Count](https://img.shields.io/github/languages/count/BrenoFariasdaSilva/Dagster-Data-Engineering-Pipelines)
@@ -43,7 +34,6 @@ This repository includes Dagster application code developed by the fictional dat
 [![Monthly Commits](https://img.shields.io/github/commit-activity/m/BrenoFariasdaSilva/Dagster-Data-Engineering-Pipelines/master)](https://github.com/BrenoFariasdaSilva/Dagster-Data-Engineering-Pipelines/commits)
 [![Merged PRs](https://img.shields.io/github/issues-search/BrenoFariasdaSilva/Dagster-Data-Engineering-Pipelines?query=is%3Apr%20is%3Amerged&label=merged%20PRs&color=blue)](https://github.com/BrenoFariasdaSilva/Dagster-Data-Engineering-Pipelines/pulls?q=is%3Apr+is%3Amerged)
 ![GitHub Primary Language](https://img.shields.io/badge/language-Jupyter%20Notebook-3b82f6)
-
 ![Repobeats Statistics](https://repobeats.axiom.co/api/embed/73650a6aa618db050c06a37b0cf1c12b38e56e94.svg)
 
 </div>
